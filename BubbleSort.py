@@ -11,6 +11,18 @@ O(n2)
 
 in the worst and average cases, making it inefficient for large lists, but it's a great 
 starting point to understand sorting concepts.
+
+Explanation of the Code
+
+Outer Loop: The outer loop runs through the list multiple times. With each pass, the largest unsorted element "bubbles up" to its correct position.
+Inner Loop: The inner loop performs pairwise comparisons and swaps elements if they are out of order.
+Optimization with swapped Flag:
+If no elements were swapped during a pass, it means the list is already sorted, and the algorithm can terminate early.
+Testing:
+The script includes a sample list [64, 34, 25, 12, 22, 11, 90] which is sorted using the bubble_sort() function.
+
+Original List: [64, 34, 25, 12, 22, 11, 90]
+Sorted List: [11, 12, 22, 25, 34, 64, 90]
 """
 # Bubble Sort Algorithm
 # Astro Pema Software (c)
