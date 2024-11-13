@@ -1,5 +1,12 @@
 # UnderGrad_CS_Projects
-Common Under Graduate Computer Science Projects in Python
+
+Juan David Correa
+Under Graduate Computer Science Projects 
+Made originally in Pascal, circa 1988. 
+UPR RUM Mayaguez
+
+Re coded in Python, for modern times. 
+Oct-Nov 2024
 
  
 1. Towers of Hanoi
