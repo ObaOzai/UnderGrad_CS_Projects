@@ -41,6 +41,14 @@ gives an estimate of π.
 Measuring Time:
 We use time.time() to measure how long the simulation takes.
 
+Output
+For 1,000,000 points, you might see something like:
+
+Estimating π using 1000000 random points...
+Estimated value of π: 3.141592
+Time taken: 0.8764 seconds
+
+
 
 """
 
