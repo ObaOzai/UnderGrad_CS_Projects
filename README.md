@@ -1,7 +1,6 @@
 # UnderGrad_CS_Projects
 
-Juan David Correa
-Under Graduate Computer Science Projects 
+Under Graduate Computer Science Projects Refresher
 Made originally in Pascal, circa 1988. 
 UPR RUM Mayaguez
 
